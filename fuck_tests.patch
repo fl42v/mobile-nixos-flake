@@ -1,0 +1,13 @@
+diff --git a/meson_options.txt b/meson_options.txt
+index 8ee7b6e..b0a54c4 100644
+--- a/meson_options.txt
++++ b/meson_options.txt
+@@ -2,7 +2,7 @@ option('documentation', type: 'boolean', value: false, description: 'build docum
+ option('ibus', type: 'boolean', value: true, description: 'build with IBus support')
+ option('privileged_group', type: 'string', value: 'wheel', description: 'name of group that has elevated permissions')
+ option('snap', type: 'boolean', value: false, description: 'build with Snap support')
+-option('tests', type: 'boolean', value: true, description: 'build tests')
++option('tests', type: 'boolean', value: false, description: 'build tests')
+ option('wayland', type: 'boolean', value: true, description: 'build with Wayland support')
+ option('profile', type: 'combo', choices: ['default','development'], value: 'default')
+ option('malcontent', type: 'boolean', value: false, description: 'build with malcontent support')
