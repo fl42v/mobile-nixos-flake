@@ -6,7 +6,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     mobile-nixos = {
-      url = "github:fl42v/mobile-nixos";
+      url = "github:fl42v/mobile-nixos/updoot-enchilada";
       flake = false;
     };
     nix-software-center = {

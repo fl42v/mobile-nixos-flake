@@ -87,15 +87,16 @@
     "mobile-nixos": {
       "flake": false,
       "locked": {
-        "lastModified": 1701795625,
-        "narHash": "sha256-X7hr+AjtVCF1HyJetYxghfEcA5G86k640dWxemAT6sg=",
+        "lastModified": 1702172606,
+        "narHash": "sha256-s3RP9II+Z/mubi0Krl6NYVi+xko5/cWaybQQ56NypWk=",
         "owner": "fl42v",
         "repo": "mobile-nixos",
-        "rev": "0dbfbc405ae5bbc539b47b7a71dd0eb6e91f1aab",
+        "rev": "c3f82bb8d5722a24fe8606d840d36f9b85931de3",
         "type": "github"
       },
       "original": {
         "owner": "fl42v",
+        "ref": "updoot-enchilada",
         "repo": "mobile-nixos",
         "type": "github"
       }
@@ -145,11 +146,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1701436327,
-        "narHash": "sha256-tRHbnoNI8SIM5O5xuxOmtSLnswEByzmnQcGGyNRjxsE=",
+        "lastModified": 1701718080,
+        "narHash": "sha256-6ovz0pG76dE0P170pmmZex1wWcQoeiomUZGggfH9XPs=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "91050ea1e57e50388fa87a3302ba12d188ef723a",
+        "rev": "2c7f3c0fb7c08a0814627611d9d7d45ab6d75335",
         "type": "github"
       },
       "original": {
